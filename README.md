@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashwin Singh Bisth</h1>
+<h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">I never push broken code. That’s my ninja way</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uncle8475&label=Profile%20views&color=0e75b6&style=flat" alt="uncle8475" /> </p>
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react,Node.js,Express.js,SQL,**
 
-- 📫 How to reach me **ashwinbisht3@gmail.com**
+- 📫 How to reach me **aryan3@gmail.com**
 
 - ⚡ Fun fact **I’m gonna be Hokage someday — believe it!**
 
